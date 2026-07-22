@@ -34,7 +34,7 @@ class LaunchRequestHandler(AbstractRequestHandler):
         return ask_utils.is_request_type("LaunchRequest")(handler_input)
 
     def handle(self, handler_input):
-        speak_output = "Yemi activado. Cual es tu pregunta?"
+        speak_output = "Dime"
         return (
             handler_input.response_builder.speak(speak_output)
             .ask(speak_output)

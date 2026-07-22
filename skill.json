@@ -31,8 +31,8 @@
       "distributionCountries": [],
       "isAvailableWorldwide": true,
       "locales": {
-        "pt-BR": {
-          "name": "conversa inteligente"
+        "es-ES": {
+          "name": "Asistente AI"
         }
       },
       "testingInstructions": "Sample Testing Instructions."
