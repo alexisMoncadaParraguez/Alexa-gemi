@@ -32,7 +32,7 @@
       "isAvailableWorldwide": true,
       "locales": {
         "es-ES": {
-          "name": "ai"
+          "name": "Asistente"
         }
       },
       "testingInstructions": "Sample Testing Instructions."
