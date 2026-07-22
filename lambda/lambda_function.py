@@ -15,7 +15,7 @@ from google.genai import types
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AQ.Ab8RN6J2lEHCcrbviUazSmlzqytZcW6UmcPbzc5yPrUWlFAW2Q")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "aqui va la ApiKey")
 
 client = genai.Client(api_key=GEMINI_API_KEY)
 
